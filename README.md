@@ -1,4 +1,4 @@
-# ![Rooms Renting App](https://github.com/mohammedagl6/rooms_renting/blob/master/client/src/images/shot.png)
+
 # Rooms Renting
 <table>
 <tr>
@@ -17,5 +17,4 @@
   - User can cancel the booking.
   - ... more features and updates coming...
 
-## Demo
-Here is a working live demo :  https://youarewelcome.netlify.app/
+
